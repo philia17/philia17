@@ -1,16 +1,28 @@
-## Hi there 👋
+# Siheng Ye
 
-<!--
-**philia17/philia17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronic Engineering student at the University of Nottingham Ningbo China, working at the intersection of embedded perception, control, robotics and edge AI.
 
-Here are some ideas to get you started:
+I build systems that connect sensing, inference, control and hardware validation — with an emphasis on measurable experiments, traceable evidence and human-in-the-loop decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Embedded perception and computer vision for robotic interaction
+- Control, automation and cyber-physical systems
+- Raspberry Pi 5 edge AI, retrieval and deterministic tool use
+- Human-robot interaction and accountable teleoperation
+- PMSM/MPC delay compensation and embedded prototyping
+
+## Selected research and projects
+
+- **Robot–Elevator Interaction** — a staged perception-to-activation pipeline combining button detection, HOG+SVM classification, RGB-D localisation, calibration and guarded robot-arm action. Paper 105 accepted for oral presentation at IHCI 2026.
+- **EEE-Pi-Agent** — a Raspberry Pi 5 test and training platform combining retrieval, deterministic calculation tools and a compact quantised language model. Paper 106 accepted for oral presentation at IHCI 2026.
+- **Bangbang V2** — an inclusive teleoperation robot with on-device facial-expression analysis, bilingual speech services and browser-based operator interaction. Paper 230 accepted for presentation at HRFEST 2026; the IEEE proceedings camera-ready process is in progress.
+- **Bangbang 2.0** — ongoing manuscript work on advisory edge-cloud LLM decision support for tele-operated inclusive service robots.
+
+## Find me elsewhere
+
+- [Personal portfolio](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/)
+- [LinkedIn](https://www.linkedin.com/in/siheng-ye/)
+- [ORCID](https://orcid.org/0009-0007-4314-2841)
+
+I keep research and publication descriptions evidence-based: accepted presentations and camera-ready work are not presented as published or indexed until that status is confirmed.
