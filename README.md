@@ -16,8 +16,7 @@ I build systems that connect sensing, inference, control and hardware validation
 
 - **Robot–Elevator Interaction** — a staged perception-to-activation pipeline combining button detection, HOG+SVM classification, RGB-D localisation, calibration and guarded robot-arm action. Paper 105 accepted for oral presentation at IHCI 2026.
 - **EEE-Pi-Agent** — a Raspberry Pi 5 test and training platform combining retrieval, deterministic calculation tools and a compact quantised language model. Paper 106 accepted for oral presentation at IHCI 2026.
-- **Bangbang V2** — an inclusive teleoperation robot with on-device facial-expression analysis, bilingual speech services and browser-based operator interaction. Paper 230 accepted for presentation at HRFEST 2026; the IEEE proceedings camera-ready process is in progress.
-- **Bangbang 2.0** — ongoing manuscript work on advisory edge-cloud LLM decision support for tele-operated inclusive service robots.
+- **Bangbang V2** — *Bangbang V2: On-Device Facial Emotion and Bilingual Speech Recognition for a Raspberry Pi-Based Tele-Operated Avatar Robot*. An inclusive teleoperation robot with on-device facial-expression analysis, bilingual speech services and browser-based operator interaction. Paper 230 accepted for presentation at HRFEST 2026; IEEE proceedings camera-ready process in progress.
 
 ## Find me elsewhere
 
