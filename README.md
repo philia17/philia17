@@ -1,27 +1,46 @@
 # Siheng Ye
 
-Electrical & Electronic Engineering student at the University of Nottingham Ningbo China, working at the intersection of embedded perception, control, robotics and edge AI.
+Electrical & Electronic Engineering student at the University of Nottingham Ningbo China, with graduation expected in 2027. I work across embedded perception, control, robotic systems and edge AI.
 
-I build systems that connect sensing, inference, control and hardware validation — with an emphasis on measurable experiments, traceable evidence and human-in-the-loop decisions.
+I build systems that connect sensing, inference and physical interaction. I care about what an experiment actually demonstrates, how an answer can be traced to its sources, and where a human operator should retain control.
 
-## Current focus
+[Portfolio](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/siheng-ye/) · [ORCID](https://orcid.org/0009-0007-4314-2841)
+
+## Selected work
+
+### Robot–Elevator Interaction
+
+**My contribution:** developed a staged perception pipeline and integrated RGB-D localisation, calibration and guarded robot-arm interaction.
+
+**System:** button detection → HOG+SVM classification and semantic target selection → RGB-D localisation → operator-supervised activation.
+
+**Evidence:** two qualitative staged demonstrations, one hall-call interaction and one car-panel activation. These do not establish a repeated-trial success rate or cross-elevator reliability.
+
+[Project notes and full platform figure](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#lift-title) · IHCI 2026, Paper 105 — accepted for oral presentation.
+
+### Raspberry Pi 5 Engineering Assistant
+
+**My contribution:** built an edge prototype combining a compact quantised language model, retrieval and deterministic calculation tools; designed an Ask/Quiz interface that separates generated answers, sources and tool output.
+
+**Study:** seven configurations compared on 96 EEE questions in an offline GPU-reference evaluation, alongside separate Raspberry Pi 5 observations using the same quantised model artefact.
+
+[Project notes and hardware/workflow figure](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#assistant-title) · IHCI 2026, Paper 106 — accepted for oral presentation.
+
+### Bangbang V2
+
+**My contribution:** developed the Raspberry Pi 5 vision path for a team teleoperation project, using MediaPipe FaceMesh with complementary CNN and interpretable FACS/AU routes.
+
+**System:** on-device facial-expression estimates, bilingual speech and a browser operator interface. AI outputs are advisory; the human operator retains final decision responsibility.
+
+[Project notes and operator interface](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#bangbang-title) · HRFEST 2026, Paper 230 — accepted for presentation; camera-ready work is in progress.
+
+## Current interests
 
 - Embedded perception and computer vision for robotic interaction
 - Control, automation and cyber-physical systems
-- Raspberry Pi 5 edge AI, retrieval and deterministic tool use
-- Human-robot interaction and accountable teleoperation
-- PMSM/MPC delay compensation and embedded prototyping
+- Raspberry Pi edge systems, retrieval and deterministic tool use
+- PMSM model-predictive control with digital-delay compensation
 
-## Selected research and projects
+My [portfolio](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#work) also includes a team-built forward converter, a transformable land–air robot and a Doppler radar speed detector.
 
-- **Robot–Elevator Interaction** — a staged perception-to-activation pipeline combining button detection, HOG+SVM classification, RGB-D localisation, calibration and guarded robot-arm action. Paper 105 accepted for oral presentation at IHCI 2026.
-- **EEE-Pi-Agent** — a Raspberry Pi 5 test and training platform combining retrieval, deterministic calculation tools and a compact quantised language model. Paper 106 accepted for oral presentation at IHCI 2026.
-- **Bangbang V2** — *Bangbang V2: On-Device Facial Emotion and Bilingual Speech Recognition for a Raspberry Pi-Based Tele-Operated Avatar Robot*. An inclusive teleoperation robot with on-device facial-expression analysis, bilingual speech services and browser-based operator interaction. Paper 230 accepted for presentation at HRFEST 2026; IEEE proceedings camera-ready process in progress.
-
-## Find me elsewhere
-
-- [Personal portfolio](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/)
-- [LinkedIn](https://www.linkedin.com/in/siheng-ye/)
-- [ORCID](https://orcid.org/0009-0007-4314-2841)
-
-I keep research and publication descriptions evidence-based: accepted presentations and camera-ready work are not presented as published or indexed until that status is confirmed.
+Conference contributions are listed with their accepted presentation status. Proceedings publication and indexing remain unconfirmed.
