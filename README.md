@@ -16,7 +16,7 @@ I build systems that connect sensing, inference and physical interaction. I care
 
 **Evidence:** two qualitative staged demonstrations, one hall-call interaction and one car-panel activation. These do not establish a repeated-trial success rate or cross-elevator reliability.
 
-[Project notes and full platform figure](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#lift-title) · IHCI 2026, Paper 105 — accepted for oral presentation.
+[Project notes and full platform figure](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#lift-title) · [Public source](https://github.com/philia17/robot-elevator-interaction) · IHCI 2026, Paper 105 — accepted for oral presentation.
 
 ### Raspberry Pi 5 Engineering Assistant
 
@@ -24,7 +24,7 @@ I build systems that connect sensing, inference and physical interaction. I care
 
 **Study:** seven configurations compared on 96 EEE questions in an offline GPU-reference evaluation, alongside separate Raspberry Pi 5 observations using the same quantised model artefact.
 
-[Project notes and hardware/workflow figure](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#assistant-title) · IHCI 2026, Paper 106 — accepted for oral presentation.
+[Project notes and hardware/workflow figure](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#assistant-title) · [Public source](https://github.com/philia17/pi-engineering-assistant) · IHCI 2026, Paper 106 — accepted for oral presentation.
 
 ### Bangbang V2
 
@@ -32,7 +32,7 @@ I build systems that connect sensing, inference and physical interaction. I care
 
 **System:** on-device facial-expression estimates, bilingual speech and a browser operator interface. AI outputs are advisory; the human operator retains final decision responsibility.
 
-[Project notes and operator interface](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#bangbang-title) · HRFEST 2026, Paper 230 — accepted for presentation; camera-ready work is in progress.
+[Project notes and operator interface](https://siheng-ye-portfolio.minjunc1984.chatgpt.site/#bangbang-title) · [Public source](https://github.com/philia17/bangbang-v2-public) · HRFEST 2026, Paper 230 — accepted for presentation; camera-ready work is in progress.
 
 ## Current interests
 
