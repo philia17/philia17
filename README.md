@@ -32,7 +32,14 @@ I build systems that connect sensing, inference and physical interaction. I care
 
 **System:** on-device facial-expression estimates, bilingual speech and a browser operator interface. AI outputs are advisory; the human operator retains final decision responsibility.
 
-[Project notes and operator interface](https://philia17.github.io/research/bangbang-v2/) · [Public source](https://github.com/philia17/bangbang-v2-public) · HRFEST 2026, Paper 230 — accepted for presentation; proceedings publication and indexing are not yet confirmed.
+[Project notes and operator interface](https://philia17.github.io/research/bangbang-v2/) · [Public source](https://github.com/philia17/bangbang-v2-public)
+
+- [HRFEST 2026, Paper 230](https://philia17.github.io/research/bangbang-v2/#paper-230) — accepted for presentation; second author of nine.
+- [IHCI 2026, Paper 99](https://philia17.github.io/research/bangbang-v2/#paper-99) — a separate paper from the same project, accepted for oral presentation; fourth author of eight.
+
+## Technical service
+
+**Technical Assistant — AI + Design Thinking & Robothon 2026, UNNC (November 2026).** Supporting equipment setup, Raspberry Pi and sensor debugging, code troubleshooting and demonstrations. [Details](https://philia17.github.io/#technical-service).
 
 ## Current interests
 
